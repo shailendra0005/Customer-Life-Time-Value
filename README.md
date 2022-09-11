@@ -16,3 +16,9 @@ Italian economist Vilfredo Pareto states that 80% of the effect comes from 20% o
 
 
 Targeting a new customer is more costly than retaining existing customers because you don’t need to spend resources, time, and work hard to acquire new customers. You just have to keep the existing customers happy. Business analyst's accurately calculate customer acquisition cost using CLTV(Customer Lifetime Value). CLTV indicates the total revenue from the customer during the entire relationship. CLTV helps companies to focus on those potential customers who can bring in the more revenue in the future.
+
+
+Pros and Cons of CLTV
+CLTV helps you to design an effective business plan and also provide a chance to scale your business. CLTV draw meaningful customer segments these segment can help you to identify needs of the different-different segment.
+
+Customer Lifetime Value is a tool, not a strategy. CLTV can figure out most profitable customers, but how you are going to make a profit from them, it depends on your strategy. Generally, CLTV models are confused and misused. Obsession with CLTV may create blinders. Companies only focus on finding the best customer group and focusing on them and repeat the business, but it’s also important to give attention to other customers.
